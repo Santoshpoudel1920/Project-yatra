@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "676015307332",
+    "project_id": "projectyatra-3ebbc",
+    "storage_bucket": "projectyatra-3ebbc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676015307332:android:ce75c48ab960505d721a11",
+        "android_client_info": {
+          "package_name": "com.example.projectyatratest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDNNfxPm6D6MnZINzzw6fjV2LqGORAtYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
